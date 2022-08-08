@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:24,Converting http://1942468522.rsc.cdn77.org/h4EXt_jdaExJ3mGgFC0Jaw==,1659930063/1942468522/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:network-caching=1000
+http://1942468522.rsc.cdn77.org/h4EXt_jdaExJ3mGgFC0Jaw==,1659930063/1942468522/tracks-v1a1/mono.m3u8
